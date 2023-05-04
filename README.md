@@ -21,8 +21,7 @@ If you use this code for your research, please cite our papers.
 @inproceedings{DBLP:conf/isbra/Luo21,
   author       = {Sanbi Luo},
   title        = {Image to Image Transfer Makes Malpositioned Teeth Orderly},
-  booktitle    = {Bioinformatics Research and Applications - 17th International Symposium,
-                  {ISBRA} 2021, Shenzhen, China, November 26-28, 2021, Proceedings},
+  booktitle    = {Bioinformatics Research and Applications - 17th International Symposium, {ISBRA} 2021, Shenzhen, China, November 26-28, 2021, Proceedings},
   year         = {2021}
 }
 ```
